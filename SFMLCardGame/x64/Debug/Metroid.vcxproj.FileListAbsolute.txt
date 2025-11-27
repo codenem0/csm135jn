@@ -1,0 +1,3 @@
+C:\Users\nem0s\Desktop\CS\Metroid\x64\Debug\Metroid.exe
+C:\Users\nem0s\Desktop\Completed Classes\CS\Metroid\x64\Debug\Metroid.exe
+C:\Users\nem0s\Desktop\GG\x64\Debug\GuessingGame.exe
